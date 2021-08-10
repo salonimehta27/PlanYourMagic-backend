@@ -49,6 +49,18 @@
       "img": "https://media.istockphoto.com/photos/bloggingblog-concepts-ideas-with-worktable-picture-id922745190?k=6&m=922745190&s=612x612&w=0&h=qBmau_GKQZasMW14NJBp3u2vU-f5YFCcN1N71Exa8iE=",
       "notes": "make your blog post done by next thursday ",
       "id": 9
+    },
+    {
+      "task": "Cleaning",
+      "taskDate": "2021-08-27",
+      "img": "",
+      "notes": "",
+      "id": 10
+    },
+    {
+      "task": "Laundry",
+      "taskDate": "mm-dd-yyyy",
+      "id": 11
     }
   ],
   "calendar": {

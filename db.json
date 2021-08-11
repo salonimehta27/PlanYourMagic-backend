@@ -65,6 +65,7 @@
   ],
   "calendar": [
     {
+      "id": 1,
       "url": "https://calendar.google.com/calendar/embed?src=flatironschool.com_n5h0flsd8f4ie573mfv6m85rn0%40group.calendar.google.com&ctz=America%2FNew_York"
     }
   ]

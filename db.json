@@ -5,15 +5,15 @@
       "id": 1
     },
     {
-      "item": "Chicken",
+      "item": "Apples",
       "id": 2
     },
     {
-      "item": "Basil",
+      "item": "Cookie dough",
       "id": 3
     },
     {
-      "item": "Onion",
+      "item": "Basil",
       "id": 4
     }
   ],
@@ -50,7 +50,7 @@
   "calendar": [
     {
       "id": 1,
-      "url": "https://calendar.google.com/calendar/embed?src=flatironschool.com_n5h0flsd8f4ie573mfv6m85rn0%40group.calendar.google.com&ctz=America%2FNew_York"
+      "url": "https://calendar.google.com/calendar/embed?src=en.usa%23holiday%40group.v.calendar.google.com&ctz=America%2FNew_York"
     }
   ]
 }
